@@ -23,3 +23,19 @@ A simple Python application that simulates a pizza delivery service, allowing us
 - Enter your delivery information (optional).
 - View your total cost, including the delivery fee.
 
+## Example
+- Welcome to Python Pizza Deliveries!
+- What size pizza do you want? S, M, L: L
+- Do you want pepperoni on your pizza? Y or N: Y
+- Do you want extra cheese? Y or N: N
+- Your final bill is: $28
+
+## 🤝 Contributing
+Feel free to fork this repository, improve it, and submit a pull request. Contributions are welcome!
+
+## 🌟 Show Your Support
+If you like this project, don't forget to give it a ⭐ on GitHub!
+
+
+
+
